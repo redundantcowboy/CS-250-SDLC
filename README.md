@@ -8,6 +8,6 @@ I interpret user needs by first having clear communication with them and asking 
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
-
+I hope to incorporate all the Agile processes in my future development work. If I were to pick two in particular it would be the daily scrums and backlog refinement. I think touching base with your team every day really helps the collective be able to jump in and assist when needed. Using backlog refinement seems to me to be the most efficient way to work through a task list and know you are always working on what's most important. 
 
 What does it mean to be a good team member in software development?
